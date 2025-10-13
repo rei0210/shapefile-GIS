@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7610f6d-2c8f-4d48-95f1-3593bb115db8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/java/org/geotools/tools/SnowFlakeIdTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shp-front-end/shpgis-front-end/src/func/func.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geotools-backend" beforeDir="false" afterPath="$PROJECT_DIR$/geotools-backend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geotools-backend/geotools-backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/java/org/geotools/controller/FileSpaceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/java/org/geotools/config/controller/FileSpaceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/java/org/geotools/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/java/org/geotools/config/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/java/org/geotools/controller/ShpFeatureInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/java/org/geotools/config/controller/ShpFeatureInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/java/org/geotools/controller/ShpFileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/java/org/geotools/config/controller/ShpFileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/java/org/geotools/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/java/org/geotools/config/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/java/org/geotools/service/impl/ShpFileServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/java/org/geotools/service/impl/ShpFileServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/java/org/geotools/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/java/org/geotools/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/test/java/org/geotools/apiTest/ToolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/geotools-backend/geotools-backend/src/test/java/org/geotools/apiTest/ToolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shp-front-end" beforeDir="false" afterPath="$PROJECT_DIR$/shp-front-end" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shp-front-end/shpgis-front-end/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shp-front-end/shpgis-front-end/src/components/common/Map.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shp-front-end/shpgis-front-end/src/components/common/Map.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shp-front-end/shpgis-front-end/src/components/common/ShpFeatureTable.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shp-front-end/shpgis-front-end/src/components/common/ShpFeatureTable.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shp-front-end/shpgis-front-end/src/components/common/card/AddFeatureCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shp-front-end/shpgis-front-end/src/components/common/card/AddFeatureCard.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/geotools-backend" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="33zTzp77IfheKmKZDSBJj0f5nHT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/javaSpace/shapefile-GIS/shp-gis",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7610f6d-2c8f-4d48-95f1-3593bb115db8" name="Changes" comment="" />
+      <created>1760319166303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760319166303</updated>
+      <workItem from="1760319167969" duration="189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
